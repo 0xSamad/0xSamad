@@ -9,7 +9,7 @@ Welcome to my GitHub!
 Here you'll find my personal tools, CTF writeups, security experiments, and software projects.
 
 ## 🔧 What I Do
-- 🔍 Bug bounty hunting (starting with inDrive.com on HackerOne)
+- 🔍 Bug bounty hunting (on HackerOne)
 - 🧠 Capture The Flag (CTF) challenges: Web, Reverse Engineering, Crypto, Forensics
 - 🧪 Writing tools and scripts to automate recon and exploit development
 - 🖥️ Studying Software Engineering with a focus on cybersecurity
