@@ -18,7 +18,7 @@ Here you'll find my personal tools, CTF writeups, security experiments, and soft
 - **Languages & Tech:** `C++`, `HTML`, `CSS`
 - **Cybersecurity:** `Linux`, `Metasploit`, `Nmap`, `OSINT`, `Burp Suite`, `Wireshark`
 - **Core Knowledge:** `Computer Networking`, `Vulnerability Scanning`, `Information Gathering`
-- **Certifications:** `eJPT` – eLearnSecurity Junior Penetration Tester
+- **Certifications:** `eJPT` – eLearnSecurity Junior Penetration Tester + `PT1` - Tryhackme Practical Penetration Tester
 
 ---
 
