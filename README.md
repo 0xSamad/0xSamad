@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Samad
 
-🎓 Junior Penetration Tester | 🧑‍🎓 Software Engineering Student | 🏅 eJPT Certified  
+🎓 Junior Penetration Tester | 🧑‍🎓 Software Engineering Student | 🏅 eJPT + PT1 Certified  
 🎯 CTF Player | 🐞 Bug Bounty Hunter | 🛡️ Passionate About Cybersecurity
 
 ---
